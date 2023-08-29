@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahilpasha
-- 👀 I’m interested in software and web design, machine learning, and cryptography
-- 📚 I'm learning Electron and ReactJS
+- 👀 I’m interested in software and web design, AI, and cryptography
+- 📚 I'm learning C++ and React Native
 - 📫 How to reach me: rahilpasha006@gmail.com
 
 <!---
